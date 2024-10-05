@@ -23,4 +23,4 @@ gem 'rackup', '~> 2.0'
 
 # Used to manipulate images to create an animated GIF.
 # @see https://rmagick.github.io/
-gem 'rmagick', '~> 4.1.2'
+gem 'rmagick', '~> 5.3.0'
