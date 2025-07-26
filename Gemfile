@@ -15,7 +15,7 @@ source 'https://rubygems.org'
 
 # A simple web framework and Sinatra makes it pretty easy.
 # @see http://www.sinatrarb.com/
-gem 'sinatra', '~> 4.0'
+gem 'sinatra', '~> 4.1'
 
 # Command line tool for starting and stopping application.
 # @see https://github.com/rack/rackup
